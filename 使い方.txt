@@ -1,0 +1,13 @@
+
+_config.yml に公開時の url を設定する。
+デバッグ時はローカルで、リリース時には github の url を記載する点に注意。
+
+デバッグコマンド
+jekyll serve
+
+ビルドコマンド
+jekyll build
+
+ビルドすると
+_site フォルダに出力されるので、
+
